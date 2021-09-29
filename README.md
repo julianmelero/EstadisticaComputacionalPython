@@ -7,6 +7,7 @@ Esto es el resultado del curso impartido por [David Aroesti](https://github.com/
 # Tabla de Contenidos
 
 1. [Programación Dinámica](#Programación-Dinámica)
+2. [Caminos Aleatorios](#Caminos-Aleatorios)
 
 # Programación Dinámica
 
@@ -27,3 +28,14 @@ También nos podemos encontrar con los problemas empalmados, los cuales implican
 ---
 
 ![Fibonacci](./assets/fibonacci.png)
+
+# Caminos Aleatorios
+
+Los **caminos aleatorios** es un tipo de simulación en el que se elige de forma aleatoria, una decisión dentro del conjunto de decisiones 'válidas'. Se utiliza en **campos no deterministas** donde se usan elementos de aleatoriedad.
+
+### Camino de Borrachos
+
+---
+
+Es una simulación, donde empezamos en un punto 0, y debemos tomar la decisión aleatoria de movernos hacia una opción establecida.
+
